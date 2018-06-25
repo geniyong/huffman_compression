@@ -1,0 +1,8 @@
+a a a a a  5
+b b b  3
+c c c c c c c c c c  10
+d d d d d d d 7
+e e e e e e e e e e e e e e e e e e e e 20
+f f f f f f f f f f 9
+x x x x x x x x 8
+z z z z 4
